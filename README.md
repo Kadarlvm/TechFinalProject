@@ -1,3 +1,14 @@
+Team Members:
+
+
+Vikram Kadarla
+
+Akshay Vadala
+
+Rahul Reddy Kanapuram
+
+
+
 Screenshots
 
 ![photo_2024-04-20 18 53 03](https://github.com/Kadarlvm/TechFinalProject/assets/156543497/ca27c67b-ea3c-4943-9a25-c641656f3b44)
@@ -10,5 +21,9 @@ Screenshots
 
 
 
-Short video
+Short video:
+
+
+https://github.com/Kadarlvm/TechFinalProject/assets/156543497/b2407e83-97e7-4daf-858d-8d4266f5b8c4
+
 
